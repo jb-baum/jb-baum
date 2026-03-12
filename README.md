@@ -85,9 +85,7 @@ Google Earth Engine and cloud geospatial processing pipelines.
 
 ## Resume
 
-Professional resume
-
-(Add link to hosted resume PDF)
+Resume
 
 ---
 
