@@ -1,2 +1,2 @@
-# gis-portfolio
+# jb-baum
 JB Baum 
